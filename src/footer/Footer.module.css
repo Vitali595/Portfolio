@@ -1,0 +1,35 @@
+.footerBlock {
+    background-color: #c597c8;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: lightblue;
+}
+
+.footerContainerBlock {
+    border: 1px solid;
+    width: 100%;
+    max-width: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.block {
+    width: 60px;
+    height: 60px;
+    background-color: #809eae;
+}
+
+.footerSpan {
+    background-color: #8dcdc8;
+}

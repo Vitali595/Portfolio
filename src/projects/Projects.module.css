@@ -1,0 +1,23 @@
+.projectsBlock {
+    background-color: #97c8a7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.projectsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: lightsteelblue;
+}
+
+.projects {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
